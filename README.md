@@ -26,13 +26,13 @@ the homepage:
 ![avatar](http://zhao.uattoken.cn/image/homepage.jpg)
 
 the create algorithm:
-![avatar](http://zhao.uattoken.cn/image/f_1.jpg)
-![avatar](http://zhao.uattoken.cn/image/f_2.jpg)
-![avatar](http://zhao.uattoken.cn/image/f_3.jpg)
-![avatar](http://zhao.uattoken.cn/image/f_4.jpg)
-![avatar](http://zhao.uattoken.cn/image/f_5.jpg)
+![avatar](http://zhao.uattoken.cn/image/f_1.png)
+![avatar](http://zhao.uattoken.cn/image/f_2.png)
+![avatar](http://zhao.uattoken.cn/image/f_3.png)
+![avatar](http://zhao.uattoken.cn/image/f_4.png)
+![avatar](http://zhao.uattoken.cn/image/f_5.png)
 
 the algorithm market:
-![avatar](http://zhao.uattoken.cn/image/s_1.jpg)
-![avatar](http://zhao.uattoken.cn/image/s_2.jpg)
-![avatar](http://zhao.uattoken.cn/image/s_3.jpg)
+![avatar](http://zhao.uattoken.cn/image/s_1.png)
+![avatar](http://zhao.uattoken.cn/image/s_2.png)
+![avatar](http://zhao.uattoken.cn/image/s_3.png)
